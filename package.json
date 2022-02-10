@@ -35,7 +35,7 @@
     "imagemin-svgo": "^5.2.4",
     "live-server": "^1.0.0",
     "mkdirp": "^0.5.1",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "npm-run-all": "^2.3.0",
     "uglify-js": "^3.8.0"
   }
